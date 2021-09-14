@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ohamshakya
-- 👀 I’m interested in Cyber Security
+- 👀 I’m interested in Cyber Security and software development
 - 🌱 I’m currently learning Web Security
 
 <!---
