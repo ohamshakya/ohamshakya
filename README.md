@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Oham-Shakya-lightgrey%20green" width=300 height=60/>
 
 <h1 align="center">Hi 👋, I'm Oham Shakya</h1>
-<h3 align="center">passionate about learning tech</h3>
+<h3 align="center" color="#0000FF">Infromation Technology student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ohamshakya&label=Profile%20views&color=0e75b6&style=flat" alt="ohamshakya" /> </p>
 <br>
