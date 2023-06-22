@@ -17,11 +17,23 @@ Here are some ideas to get you started:
 # Introduction
 <img src="https://img.shields.io/badge/Oham-Shakya-lightgrey%20green" width=300 height=60/>
 
-# <h2>Languages and Tools</h2>
-<img src="https://img.shields.io/badge/-HTML5-red?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/-CSS3-blue?styel=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/-GIT-orange?style=for-thebadge&logo=git&logoColor=white"/>
+<h1 align="center">Hi 👋, I'm Oham Shakya</h1>
+<h3 align="center">passionate about learning tech</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ohamshakya&label=Profile%20views&color=0e75b6&style=flat" alt="ohamshakya" /> </p>
 
-# Statistics
-<img src = "https://github-readme-stats.vercel.app/api?username=ohamshakya&showicons=true&title_color=ffffff&con_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/oham-shakya-5aab031b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oham-shakya-5aab031b5/" height="30" width="40" /></a>
+</p>
+<img align="center" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" alt="coding" width="400">
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ohamshakya&show_icons=true&locale=en&layout=compact" alt="ohamshakya" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ohamshakya&show_icons=true&locale=en" alt="ohamshakya" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ohamshakya&" alt="ohamshakya" /></p>
+
