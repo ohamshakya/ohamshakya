@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oham Shakya</h1>
 <h3 align="center">Software Engineer || Backend Developer || Java || Spring boot</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ohamshakya" alt="ohamshakya" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -13,5 +11,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ohamshakya&show_icons=true&locale=en&layout=compact" alt="ohamshakya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ohamshakya&" alt="ohamshakya" /></p>
-
-
