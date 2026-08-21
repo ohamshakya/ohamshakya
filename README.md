@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Building scalable and high-performance backend systems**
 
-- 💻 Powered By [Java and caffeine. ☕](Java and caffeine. ☕)
+- 💻 Powered By [Java and caffeine. ☕]
 
 - 💬 Ask me about **Java, Spring Boot, Hibernate, JPA, REST APIs, and backend development**
 
