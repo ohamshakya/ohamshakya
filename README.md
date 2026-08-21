@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ohamshakya40@gmail.com**
  
-- 👨‍💻 Portfolio [ohamshakya.com.np]
+- 👨‍💻 Portfolio [ohamshakya.com.np](ohamshakya.com.np)
 
 - ⚡ Fun fact [Coffee is my dependency injection. ☕😂]
 
