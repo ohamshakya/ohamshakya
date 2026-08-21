@@ -12,6 +12,8 @@
 - 💬 Ask me about **Java, Spring Boot, Hibernate, JPA, REST APIs, and backend development**
 
 - 📫 How to reach me **ohamshakya40@gmail.com**
+- 
+- 👨‍💻 Portfolio [ohamshakya.com.np]
 
 - ⚡ Fun fact [Coffee is my dependency injection. ☕😂]
 
