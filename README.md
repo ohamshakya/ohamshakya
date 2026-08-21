@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ohamshakya40@gmail.com**
 
-- ⚡ Fun fact Coffee is my dependency injection. ☕😂)
+- ⚡ Fun fact [Coffee is my dependency injection. ☕😂]
 
 - ⚡ Fun fact **NullPointerException and I have a complicated relationship. ❤️‍🔥**
 
